@@ -1,0 +1,15 @@
+C:\Users\URBAIN\source\repos\GestionStock\bin\Debug\net7.0\GestionStock.exe
+C:\Users\URBAIN\source\repos\GestionStock\bin\Debug\net7.0\GestionStock.deps.json
+C:\Users\URBAIN\source\repos\GestionStock\bin\Debug\net7.0\GestionStock.runtimeconfig.json
+C:\Users\URBAIN\source\repos\GestionStock\bin\Debug\net7.0\GestionStock.dll
+C:\Users\URBAIN\source\repos\GestionStock\bin\Debug\net7.0\GestionStock.pdb
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.csproj.AssemblyReference.cache
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.AssemblyInfoInputs.cache
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.AssemblyInfo.cs
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.csproj.CoreCompileInputs.cache
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.dll
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\refint\GestionStock.dll
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.pdb
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\GestionStock.genruntimeconfig.cache
+C:\Users\URBAIN\source\repos\GestionStock\obj\Debug\net7.0\ref\GestionStock.dll
